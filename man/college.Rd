@@ -5,10 +5,10 @@
 \alias{college}
 \title{College Rating Data}
 \format{
-261 obs. of  11 variables:
+260 obs. of  11 variables:
 \describe{
 \item{School}{Name of Institution.}
-\item{Rank}{Rank of Institution.}
+\item{Enrollment}{Enrollment of Institution.}
 \item{Tier}{Ranking in tiers 1, 2, 3, 4.}
 \item{Retention}{Pct. of freshmen who return the following year}
 \item{Grad.rate}{Pct. of freshmen who graduate in six years}
