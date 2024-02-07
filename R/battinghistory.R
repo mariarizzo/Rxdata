@@ -34,6 +34,7 @@
 #' \item{SF}{sacrifice flies}
 #' \item{IBB}{intentional walks}
 #' }
-#' @note{There are missing values.}
+#' @note{This version of the data is sorted in ascending order of Year.
+#' There are missing values, especially in early years.}
 #' @source baseball-reference.com.
 "battinghistory"

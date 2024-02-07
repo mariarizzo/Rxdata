@@ -47,6 +47,7 @@ Major League Baseball data on batting; number of hits, doubles, home runs by sea
 The data was extracted from baseball-reference.com website.
 }
 \note{
-{There are missing values.}
+{This version of the data is sorted in ascending order of Year.
+There are missing values, especially in early years.}
 }
 \keyword{datasets}
