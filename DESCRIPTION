@@ -1,6 +1,6 @@
 Package: Rxdata
 Title: Data for R by Example
-Version: 0.0.0.9006
+Version: 0.0.0.9007
 Authors@R: c(
     person("Maria", "Rizzo", , "mrizzo@bgsu.edu", c("aut", "cre")),
     person("Jim", "Albert", , , "aut"))

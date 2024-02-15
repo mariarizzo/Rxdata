@@ -5,7 +5,7 @@
 Data for the Book "R by Example".
 }
 \description{
-Description: Data for examples and exercises in the book "R by Example" by Jim Albert and Maria Rizzo.
+Data for examples and exercises in the book "R by Example" by Jim Albert and Maria Rizzo.
 }
 \author{
 Jim Albert and Maria Rizzo
