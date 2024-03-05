@@ -5,6 +5,12 @@
 .Ruserdata
 .Rdata
 .gitignore
+.Rbuildignore
 .httr-oauth
 .DS_Store
 .quarto
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.data-raw$
+^.*\.data-raw$
+docs

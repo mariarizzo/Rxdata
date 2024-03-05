@@ -1,13 +1,13 @@
 Package: Rxdata
 Title: Data for R by Example
-Version: 0.0.0.9007
+Version: 0.0.0.9008
 Authors@R: c(
     person("Maria", "Rizzo", , "mrizzo@bgsu.edu", c("aut", "cre")),
     person("Jim", "Albert", , , "aut"))
 Description: Data for the examples in the book "R by Example" 
     by Jim Albert and Maria Rizzo, Springer (2012).
 License: GPL (>= 2)
-URL: https://github.com/mariarizzo/Rxdata
+URL: https://github.com/mariarizzo/Rxdata, https://mariarizzo.github.io/Rxdata/
 Maintainer: Maria Rizzo <mrizzo@bgsu.edu>
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
