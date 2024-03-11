@@ -1,7 +1,7 @@
 #' Batting Averages 2021
 #'
 #' Batting data for all Major League players with at least 300 at-bats for the 2021 season.
-#' Data is from the Lahman database available through the Lahman package
+#' Data is from the Lahman database available through the Lahman package.
 #'
 #' @format 231 obs. of 5 variables:
 #' \describe{
