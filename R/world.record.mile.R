@@ -10,9 +10,9 @@
 #' \describe{
 #' \item{Gender}{female or male}
 #' \item{Time}{chr: time as "mm:ss"}
-#' \item{X}{The whole minutes part of Time}
-#' \item{X.1}{The "ss" part of Time}
-#' \item{seconds}{time expressed in seconds}
+#' \item{mm}{int: The whole minutes "mm" part of Time}
+#' \item{ss}{int: The seconds "ss" part of Time}
+#' \item{seconds}{int: time expressed in seconds}
 #' \item{Athlete}{Name}
 #' \item{Nationality}{nationality}
 #' \item{Date}{chr: date}
