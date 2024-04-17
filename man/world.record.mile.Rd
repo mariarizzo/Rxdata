@@ -7,15 +7,15 @@
 \format{
 276 obs. of  3 variables:
 \describe{
-\item{Gender}{female or male}
+\item{Gender}{chr: female or male}
 \item{Time}{chr: time as "mm:ss"}
-\item{mm}{int: The whole minutes "mm" part of Time}
-\item{ss}{int: The seconds "ss" part of Time}
-\item{seconds}{int: time expressed in seconds}
-\item{Athlete}{Name}
-\item{Nationality}{nationality}
+\item{mm}{num: The whole minutes "mm" part of Time}
+\item{ss}{num: The seconds "ss" part of Time}
+\item{seconds}{num: time expressed in seconds}
+\item{Athlete}{chr: Name}
+\item{Nationality}{chr: nationality}
 \item{Date}{chr: date}
-\item{Year}{year}
+\item{Year}{num: year}
 }
 }
 \source{
